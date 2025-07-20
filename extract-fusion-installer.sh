@@ -49,3 +49,8 @@ sudo mkdir -p /opt/BlackmagicDesign/Fusion20/
 sudo cp -r fusion-unpacked/* /opt/BlackmagicDesign/Fusion20/
 
 echo "✅ Fusion Studio extracted to /opt/BlackmagicDesign/Fusion20/"
+
+echo ""
+echo "🌀 It is recommended to log out or reboot your system before launching Fusion the first time."
+echo "This helps KDE properly refresh environment variables and desktop entries."
+echo ""
