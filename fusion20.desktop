@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Fusion Studio 20
+Comment=Launch Blackmagic Fusion Studio 20.0.1
+Exec=$HOME/fusion-studio-nobara-installer/run-fusion.sh
+Icon=/opt/BlackmagicDesign/Fusion20/blackmagic-Fusion20.png
+Terminal=false
+Type=Application
+Categories=Graphics;Video;Application;
+StartupNotify=true
